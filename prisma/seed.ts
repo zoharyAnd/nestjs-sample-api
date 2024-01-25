@@ -25,7 +25,7 @@ async function main() {
       body: 'Introducing the Tech Toolbox—an all-in-one solution for everyday tech issues ...',
       description:
         'From fixing gadgets to optimizing devices, this compact toolbox is your go-to resource for quick and easy tech solutions. Empower yourself with the Tech Toolbox. Tackle tech challenges effortlessly and keep your devices running smoothly.',
-      published: false,
+      published: true,
     },
   });
 
@@ -61,7 +61,7 @@ async function main() {
       body: 'Experience freedom with the Wireless Earbud Duo.',
       description:
         'These sleek and comfortable earbuds provide crystal-clear sound without the hassle of tangled wires. Enjoy music, take calls, and move effortlessly throughout your day.',
-      published: false,
+      published: true,
     },
   });
 

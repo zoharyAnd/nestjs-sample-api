@@ -37,6 +37,10 @@ $ npm install
 docker-compose up -d
 ```
 
+add this key value pair to your .env file
+
+`DATABASE_URL="postgresql://postgres:password@localhost:5432/nestapi?schema=public"`
+
 ## Seed database using prisma
 ```bash
 npm run prisma:seed
@@ -56,6 +60,10 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Visit the swagger at
+```bash
+http://localhost:3000/api
+```
 ## Test
 
 ```bash
