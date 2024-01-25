@@ -23,8 +23,8 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This is a simple api built using nestjs, prisma, postgres and docker
+using the [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
 
