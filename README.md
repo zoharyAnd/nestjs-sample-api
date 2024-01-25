@@ -37,6 +37,11 @@ $ npm install
 docker-compose up -d
 ```
 
+## Seed database using prisma
+```bash
+npm run prisma:seed
+```
+
 
 ## Running the app
 
