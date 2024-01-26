@@ -41,6 +41,11 @@ add this key value pair to your .env file
 
 `DATABASE_URL="postgresql://postgres:password@localhost:5432/nestapi?schema=public"`
 
+## Apply the initial migration
+```bash
+npx prisma migrate dev
+```
+
 ## Seed database using prisma
 ```bash
 npm run prisma:seed
